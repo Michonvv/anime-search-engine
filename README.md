@@ -1,4 +1,4 @@
-# Anime Search App
+# Anime Search Engine
 
 > A simple Vue.js application for searching anime, originally created in 2022 and recently redesigned with modern aesthetics.
 
